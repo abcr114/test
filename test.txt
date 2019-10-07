@@ -5,3 +5,4 @@ this is ver 2
 test diff
 test sourcetree
 fix bugs in Release Ver1.0
+Finish test in in Release Ver1.0
